@@ -1,14 +1,14 @@
 ### 👋 Hi, I'm Trisha Sharma!
 
-🎓 **Junior @ UIUC** — Computer Science + Statistics Minor  
-💡 Passionate about building data-driven applications, solving real-world problems, and using AI responsibly.
+🎓 **I am a Junior at UIUC majoring in Computer Science with a Statistics Minor  
+💡 Passionate about building data-driven applications, solving real-world problems using new technologies, and collaborating with teams to create innovative and efficient solutions.
 
 ---
 
 ### 🚀 What I'm Working On
 - Developing a **Course Scheduling App** for UIUC students  
-- Building **RAG-based chatbots** at COUNTRY Financial  
-- Exploring **machine learning + optimization**
+- Building an **AI powered personal assistent** at COUNTRY Financial  
+- Exploring **data science, machine learning, and optimization**
 
 ---
 
@@ -20,9 +20,15 @@
 ---
 
 ### 📫 Connect with Me
-<a href="https://www.linkedin.com/in/trisharma505/">LinkedIn</a> • <a href="mailto:tshar7@illinois.edu">Email</a>
-
+<p align="left">
+  <a href="https://www.linkedin.com/in/trishasharma505/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
+  </a>
+  <a href="mailto:tshar7@illinois.edu" target="_blank">
+    <img src="https://img.icons8.com/ios-glyphs/48/FFFFFF/new-post.png" width="40" />
+  </a>
+</p>
 ---
 
 ### 🌟 Fun Fact
-I love fashion, tennis, painting, and using tech to tell stories. One day, I want to build something that blends creativity + AI.
+Outside of Software Development and Data Science, I enjoy spending my time painting, building Legos, playing tennis, and playing pickleball!
