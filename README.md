@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Trisha Sharma!
 
-🎓 **I am a Junior at UIUC majoring in Computer Science with a Statistics Minor  
+🎓 I am a Junior at UIUC majoring in Computer Science with a Statistics Minor  
 💡 Passionate about building data-driven applications, solving real-world problems using new technologies, and collaborating with teams to create innovative and efficient solutions.
 
 ---
@@ -12,10 +12,47 @@
 
 ---
 
-### 🛠️ Languages & Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,react,html,css,git,github,azure,postgresql,aws,r" />
-</p>
+## 🛠️ Languages & Tools
+
+| Language / Tool | Logo |
+|---|---|
+| **C++** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/> |
+| **Python** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/> |
+| **Java** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/> |
+| **JavaScript** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/> |
+| **HTML / CSS** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/> |
+| **TypeScript** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/> |
+| **Verilog** | *(no official icon)* use text only |
+| **MIPS Assembly** | *(use plaintext)* |
+| **R** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40"/> |
+
+---
+
+### 📚 Frameworks / Libraries
+
+| Framework / Library | Logo |
+|---|---|
+| **React.js** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/> |
+| **Pandas** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/> |
+| **Streamlit** | <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" width="40"/> |
+| **Angular** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40"/> |
+| **GeoPandas** | *(text only — no official icon)* |
+| **Matplotlib** | *(text only — no official icon)* |
+| **NumPy** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/> |
+| **scikit-learn** | *(text only — no official icon)* |
+
+---
+
+### 🔧 Technologies
+
+| Technology | Logo |
+|---|---|
+| **Git** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/> |
+| **Jupyter Notebook** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40"/> |
+| **Azure Data Factory** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40"/> |
+| **Android Studio** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40"/> |
+| **Docker** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/> |
+
 
 ---
 
