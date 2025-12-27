@@ -34,14 +34,8 @@ Git ・ Jupyter Notebook ・ Azure Data Factory ・ Android Studio ・ Docker
 ---
 
 ### 📫 Connect with Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/trishasharma505/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
-  </a>
-  <a href="mailto:tshar7@illinois.edu" target="_blank">
-    <img src="https://img.icons8.com/ios-glyphs/48/FFFFFF/new-post.png" width="40" />
-  </a>
-</p>
+LinkedIn: https://www.linkedin.com/in/trishasharma505/
+Email: tshar7@illinois.edu
 ---
 
 ### 🌟 Fun Fact
